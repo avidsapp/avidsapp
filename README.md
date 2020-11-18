@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm David</h1>
+<h1 align="center">Hi, I'm David</h1>
 <h3 align="center">A full-stack developer from Denver, CO</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=avidsapp&label=Profile%20views&color=0e75b6&style=flat" alt="avidsapp" />
 </p>
 
-<p align="left">How to reach me [david@mobius.digital](mailto:david@mobius.digital)</p>
+<p align="left">How to reach me <a href="mailto:david@mobius.digital">david@mobius.digital</a></p>
 
-<p align="left">My resume is located at [avidsapp.com/resume](avidsapp.com/resume)</p>
+<p align="left">My resume is located at <a href="https://avidsapp.com/resume">avidsapp.com/resume</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
