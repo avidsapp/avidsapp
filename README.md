@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=avidsapp&label=Profile%20views&color=0e75b6&style=flat" alt="avidsapp" />
 </p>
 
-<p align="left">How to reach me <a href="mailto:david@mobius.digital">david@mobius.digital</a></p>
+<p align="left">Reach me at <a href="mailto:david@mobius.digital">david@mobius.digital</a></p>
 
 <p align="left">My resume is located at <a href="https://avidsapp.com/resume">avidsapp.com/resume</a></p>
 
@@ -14,7 +14,6 @@
   <a href="https://linkedin.com/in/avidsapp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="avidsapp" height="30" width="40" /></a>
   <a href="https://fb.com/avidsapp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="avidsapp" height="30" width="40" /></a>
   <a href="https://instagram.com/avidsapp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="avidsapp" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/avidsapp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="avidsapp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
