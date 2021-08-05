@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm David</h1>
+<h1 align="center">Hi, I'm Dave</h1>
 <h3 align="center">A full-stack developer from Denver, CO</h3>
 
 <p align="center">
